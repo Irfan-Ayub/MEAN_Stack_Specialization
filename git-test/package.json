@@ -1,0 +1,29 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a coursera course tutorial app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irfan-Ayub/MEAN_Stack_Specialization.git"
+  },
+  "keywords": [
+    "Coursera",
+    "MEAN",
+    "Stack"
+  ],
+  "author": "IrfanAyub <irfanayub995@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irfan-Ayub/MEAN_Stack_Specialization/issues"
+  },
+  "homepage": "https://github.com/Irfan-Ayub/MEAN_Stack_Specialization#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
